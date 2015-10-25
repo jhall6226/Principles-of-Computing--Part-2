@@ -10,7 +10,7 @@ Student portion of Zombie Apocalypse mini-project
 import random
 import poc_grid
 import poc_queue
-import poc_zombie_gui
+#import poc_zombie_gui
 
 # global constants
 EMPTY = 0 
